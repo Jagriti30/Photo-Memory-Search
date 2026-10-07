@@ -1,4 +1,4 @@
-**Live demo:** https://jagriti30.github.io/photos-memory-search/?demo=1 (loads a demo story library; click **Ask Photos** to try the chat finder)
+**Live demo:**  https://ankesh0070.github.io/photos-memory-search/?demo=1  (loads a demo story library; click **Ask Photos** to try the chat finder)
 
 # Photos — local-first photo library (clone of the Google Photos experience)
 
